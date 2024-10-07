@@ -19,4 +19,4 @@ jobs:
 
             - run: deno test --allow-env --allow-net
               env:
-                  PRODIA_TOKEN: ${{ secrets.PRODIA_TOKEN }}
+                  PRODIA_TOKEN: $0c7dc654-c2b8-4ef4-aba2-1ea86ed2122f
